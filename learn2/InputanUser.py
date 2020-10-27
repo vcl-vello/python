@@ -4,6 +4,8 @@ print(data)
 nilai = int(input("Masukan nilai 1 :"))
 nilai2 = int(input("Masukan nilai 2 :"))
 nilai3 = float(input("Masukan nilai 3 :"))
+nilai3 = float(input("Masukan nilai 4 :"))
+
 
 tambah = nilai + nilai2 + nilai3
 kurang = nilai - nilai2 - nilai3
